@@ -9,10 +9,9 @@
 
 ### An administration Telegram bot using Telegram-cli
 
-DBTeamV2 is a a powerful administration userbot that uses [Telegram-Cli](https://valtman.name/telegram-cli).  
+MLC-DBTeamBot is a a powerful administration userbot that uses [Telegram-Cli](https://valtman.name/telegram-cli).  
 It is programmed in [Lua](https://www.lua.org/) and uses the rapid [Redis](https://redis.io/) database.
 
-The difference among the old [DBTeamV1](https://github.com/Josepdal/DBTeamV1) and [DBTeamV2](https://github.com/Josepdal/DBTeamV2) is that this one uses a much newer *Tg-Cli* with new stuff and also the bot has improved in usability, stability and has new functions.
 
 # Summary
 
@@ -25,7 +24,6 @@ The difference among the old [DBTeamV1](https://github.com/Josepdal/DBTeamV1) an
 - Simple and intuitive command usages.
 - Compatible with most of recent added telegram additions.
 - Really fast and stable.
-- Up-to-date documentation at http://telegra.ph/DBTeamV2-Tutorial-English-02-26
 
 
 # Installation
@@ -82,14 +80,9 @@ You can also run the bot in a Tmux session if you want:
 
 MLC-DBTeamBot Developers:
 --------------------
-[![https://telegram.me/Josepdal](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Josepdal-blue.svg)](https://t.me/Josepdal)
-[![https://telegram.me/Jarriz](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Jarriz-blue.svg)](https://t.me/Jarriz)
-[![https://telegram.me/iicc1](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-iicc1-blue.svg)](https://t.me/iicc1)
+[![https://telegram.me/Golden3_ir_admin](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-AliAbdi-blue.svg)](https://t.me/Golden3_ir_admin)
 
-MLC-DBTeamBot Channels:
---------------------
-[![https://telegram.me/DBTeamEN](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-DBTeamEN-blue.svg)](https://t.me/DBTeamEN)
-[![https://telegram.me/DBTeamES](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-DBTeamES-blue.svg)](https://t.me/DBTeamES)
+
 
 Special thanks to:
 ==================
@@ -114,5 +107,11 @@ vysheng and his new tg-cli
 rizaumami and his tdcli lib
 ---------------------------
 [![https://github.com/rizaumami/tdcli.lua](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-rizaumami-green.svg)](https://github.com/rizaumami/tdcli.lua)
+
+Josepdal and DBTeamV2 Developer
+---------------------------
+[![https://github.com/Josepdal/DBTeamV2](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-Josepdal-green.svg)](https://github.com/Josepdal/DBTeamV2)
+
+
 
 Thanks to [@Reload_Life](https://t.me/Reload_Life) for [settings design](https://github.com/Reload-Life).
