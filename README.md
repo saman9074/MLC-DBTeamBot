@@ -1,4 +1,4 @@
-# **DBTeamV2** #
+# **MLC-DBTeamBot** #
 
 [![Library](https://img.shields.io/badge/TDLib-beta-brightgreen.svg)](https://core.telegram.org/tdlib)
 [![Telegram-cli](https://img.shields.io/badge/TDCli-Bitbucket-green.svg)](https://bitbucket.org/vysheng/tdcli)
@@ -54,8 +54,8 @@ sudo dnf install git redis-server libconfig8-dev libjansson-dev lua5.2 liblua5.2
 
 After installing the dependencies, lets install the bot:
 ```bash
- git clone https://github.com/Josepdal/DBTeamV2.git
- cd DBTeamV2
+ git clone https://github.com/saman9074/MLC-DBTeamBot.git
+ cd MLC-DBTeamBot
  chmod +x launch.sh
  ./launch.sh install # you can use the option --no-download and only configure DBTeam
  ./launch.sh # Will ask you for a phone number & confirmation code.
@@ -80,13 +80,13 @@ You can also run the bot in a Tmux session if you want:
 ./launch.sh kill # close session tmux
 ```
 
-DBTeamV2 Developers:
+MLC-DBTeamBot Developers:
 --------------------
 [![https://telegram.me/Josepdal](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Josepdal-blue.svg)](https://t.me/Josepdal)
 [![https://telegram.me/Jarriz](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Jarriz-blue.svg)](https://t.me/Jarriz)
 [![https://telegram.me/iicc1](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-iicc1-blue.svg)](https://t.me/iicc1)
 
-DBTeamV2 Channels:
+MLC-DBTeamBot Channels:
 --------------------
 [![https://telegram.me/DBTeamEN](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-DBTeamEN-blue.svg)](https://t.me/DBTeamEN)
 [![https://telegram.me/DBTeamES](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-DBTeamES-blue.svg)](https://t.me/DBTeamES)
